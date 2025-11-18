@@ -491,7 +491,7 @@
 
   <h2 align="center">📈 Profile Stats</h2>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Enoal-Fauchille-Bolle-Test&style=for-the-badge&abreviated=true" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Enoal-Fauchille-Bolle&style=for-the-badge&abreviated=true" alt="Profile Views"/>
   </p>
 
   <br>
@@ -989,7 +989,7 @@
 
 <h2 align="center">📈 Profile Stats</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Enoal-Fauchille-Bolle-Test&style=for-the-badge&abreviated=true" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Enoal-Fauchille-Bolle&style=for-the-badge&abreviated=true" alt="Profile Views"/>
 </p>
 
 <br>
