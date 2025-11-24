@@ -35,7 +35,11 @@
     🔭 Je suis à la recherche d'un <b>stage de 4 mois d'Avril à Juillet 2026</b> pour mettre mes compétences en pratique et contribuer à des projets innovants.
     <br />
     <br />
-    📫 N'hésitez pas à me contacter : <b>enoal.fauchille@gmail.com</b>
+    📫 N'hésitez pas à me contacter : <b>
+    <a href="mailto:enoal.fauchille@gmail.com">
+      enoal.fauchille@gmail.com
+    </a>
+  </b>
   </p>
 
   <!-------------------------------------------------------------------- Contact Badges -------------------------------------------------------------------->
@@ -533,7 +537,11 @@
 <!------------------------------------------------------------------ Internship Seeking ------------------------------------------------------------------>
 
 <p align="center">
-  📫 Feel free to contact me: <b>enoal.fauchille@gmail.com</b>
+  📫 Feel free to contact me: <b>
+    <a href="mailto:enoal.fauchille@gmail.com">
+      enoal.fauchille@gmail.com
+    </a>
+  </b>
 </p>
 
 <!-------------------------------------------------------------------- Contact Badges -------------------------------------------------------------------->
