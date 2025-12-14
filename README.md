@@ -89,14 +89,6 @@
         <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
         </a>
-        <!-- Dart -->
-        <a href="https://dart.dev/" target="_blank">
-          <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-        </a>
-        <!-- Assembly -->
-        <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-          <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
-        </a>
         <!-- Bash -->
         <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank">
           <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script"/>
@@ -126,17 +118,9 @@
         <a href="https://angular.io/" target="_blank">
           <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
         </a>
-        <!-- Vue.js -->
-        <a href="https://vuejs.org/" target="_blank">
-          <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
-        </a>
         <!-- Vite -->
         <a href="https://vitejs.dev/" target="_blank">
           <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-        </a>
-        <!-- Flutter -->
-        <a href="https://flutter.dev/" target="_blank">
-          <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
         </a>
       </td>
     </tr>
@@ -167,10 +151,6 @@
         <a href="https://jwt.io/" target="_blank">
           <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
         </a>
-        <!-- Pug -->
-        <a href="https://pugjs.org/api/getting-started.html" target="_blank">
-          <img src="https://img.shields.io/badge/Pug-%23A86454.svg?style=for-the-badge&logo=pug&logoColor=white" alt="Pug"/>
-        </a>
         <!-- Jinja -->
         <a href="https://jinja.palletsprojects.com/" target="_blank">
           <img src="https://img.shields.io/badge/Jinja-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja"/>
@@ -184,14 +164,6 @@
         <a href="https://www.postgresql.org/" target="_blank">
           <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
         </a>
-        <!-- MariaDB -->
-        <a href="https://mariadb.org/" target="_blank">
-          <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-        </a>
-        <!-- Redis -->
-        <a href="https://redis.io/" target="_blank">
-          <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-        </a>
         <!-- SQL -->
         <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
           <img src="https://custom-icon-badges.demolab.com/badge/SQL-%2300599C.svg?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
@@ -203,10 +175,6 @@
         <!-- JSON -->
         <a href="https://www.json.org/json-en.html" target="_blank">
           <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-        </a>
-        <!-- .env -->
-        <a href="https://en.wikipedia.org/wiki/Environment_variable#File_format" target="_blank">
-          <img src="https://img.shields.io/badge/.env-%23000000.svg?style=for-the-badge&logo=dotenv&logoColor=white" alt=".env"/>
         </a>
       </td>
     </tr>
@@ -232,10 +200,6 @@
         <!-- Kubernetes -->
         <a href="https://kubernetes.io/" target="_blank">
           <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-        </a>
-        <!-- Azure -->
-        <a href="https://azure.microsoft.com/" target="_blank">
-          <img src="https://custom-icon-badges.demolab.com/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
         </a>
         <!-- DigitalOcean -->
         <a href="https://www.digitalocean.com/" target="_blank">
@@ -285,10 +249,6 @@
         <!-- Tmux -->
         <a href="https://github.com/tmux/tmux" target="_blank">
           <img src="https://img.shields.io/badge/Tmux-%231BBD1B.svg?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux"/>
-        </a>
-        <!-- Regex -->
-        <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank">
-          <img src="https://custom-icon-badges.demolab.com/badge/Regex-%23000000.svg?style=for-the-badge&logo=regex&logoColor=white" alt="Regex"/>
         </a>
       </td>
     </tr>
@@ -349,10 +309,6 @@
     <tr>
       <td align="right" valign="top"><b>Ce que je veux apprendre</b></td>
       <td align="left" valign="top">
-        <!-- Go -->
-        <a href="https://golang.org/" target="_blank">
-          <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-        </a>
         <!-- Rust -->
         <a href="https://www.rust-lang.org/" target="_blank">
           <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
@@ -365,9 +321,45 @@
         <a href="https://spring.io/" target="_blank">
           <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
         </a>
+        <!-- Go -->
+        <a href="https://golang.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+        </a>
         <!-- AWS -->
         <a href="https://aws.amazon.com/" target="_blank">
           <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS"/>
+        </a>
+        <!-- Flutter -->
+        <a href="https://flutter.dev/" target="_blank">
+          <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+        </a>
+        <!-- Dart -->
+        <a href="https://dart.dev/" target="_blank">
+          <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+        </a>
+        <!-- Assembly -->
+        <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+          <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+        </a>
+        <!-- Vue.js -->
+        <a href="https://vuejs.org/" target="_blank">
+          <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+        </a>
+        <!-- Pug -->
+        <a href="https://pugjs.org/api/getting-started.html" target="_blank">
+          <img src="https://img.shields.io/badge/Pug-%23A86454.svg?style=for-the-badge&logo=pug&logoColor=white" alt="Pug"/>
+        </a>
+        <!-- MariaDB -->
+        <a href="https://mariadb.org/" target="_blank">
+          <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+        </a>
+        <!-- Redis -->
+        <a href="https://redis.io/" target="_blank">
+          <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+        </a>
+        <!-- Azure -->
+        <a href="https://azure.microsoft.com/" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
         </a>
         <!-- Grafana -->
         <a href="https://grafana.com/" target="_blank">
@@ -591,14 +583,6 @@
       <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
       </a>
-      <!-- Dart -->
-      <a href="https://dart.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-      </a>
-      <!-- Assembly -->
-      <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-        <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
-      </a>
       <!-- Bash -->
       <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank">
         <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script"/>
@@ -628,17 +612,9 @@
       <a href="https://angular.io/" target="_blank">
         <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
       </a>
-      <!-- Vue.js -->
-      <a href="https://vuejs.org/" target="_blank">
-        <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
-      </a>
       <!-- Vite -->
       <a href="https://vitejs.dev/" target="_blank">
         <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-      </a>
-      <!-- Flutter -->
-      <a href="https://flutter.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
       </a>
     </td>
   </tr>
@@ -669,10 +645,6 @@
       <a href="https://jwt.io/" target="_blank">
         <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
       </a>
-      <!-- Pug -->
-      <a href="https://pugjs.org/api/getting-started.html" target="_blank">
-        <img src="https://img.shields.io/badge/Pug-%23A86454.svg?style=for-the-badge&logo=pug&logoColor=white" alt="Pug"/>
-      </a>
       <!-- Jinja -->
       <a href="https://jinja.palletsprojects.com/" target="_blank">
         <img src="https://img.shields.io/badge/Jinja-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja"/>
@@ -686,14 +658,6 @@
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
       </a>
-      <!-- MariaDB -->
-      <a href="https://mariadb.org/" target="_blank">
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-      </a>
-      <!-- Redis -->
-      <a href="https://redis.io/" target="_blank">
-        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-      </a>
       <!-- SQL -->
       <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/SQL-%2300599C.svg?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
@@ -705,10 +669,6 @@
       <!-- JSON -->
       <a href="https://www.json.org/json-en.html" target="_blank">
         <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-      </a>
-      <!-- .env -->
-      <a href="https://en.wikipedia.org/wiki/Environment_variable#File_format" target="_blank">
-        <img src="https://img.shields.io/badge/.env-%23000000.svg?style=for-the-badge&logo=dotenv&logoColor=white" alt=".env"/>
       </a>
     </td>
   </tr>
@@ -734,10 +694,6 @@
       <!-- Kubernetes -->
       <a href="https://kubernetes.io/" target="_blank">
         <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      </a>
-      <!-- Azure -->
-      <a href="https://azure.microsoft.com/" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
       </a>
       <!-- DigitalOcean -->
       <a href="https://www.digitalocean.com/" target="_blank">
@@ -787,10 +743,6 @@
       <!-- Tmux -->
       <a href="https://github.com/tmux/tmux" target="_blank">
         <img src="https://img.shields.io/badge/Tmux-%231BBD1B.svg?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux"/>
-      </a>
-      <!-- Regex -->
-      <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/badge/Regex-%23000000.svg?style=for-the-badge&logo=regex&logoColor=white" alt="Regex"/>
       </a>
     </td>
   </tr>
@@ -851,10 +803,6 @@
   <tr>
     <td align="right" valign="top"><b>What I Want to Learn</b></td>
     <td align="left" valign="top">
-      <!-- Go -->
-      <a href="https://golang.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-      </a>
       <!-- Rust -->
       <a href="https://www.rust-lang.org/" target="_blank">
         <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
@@ -867,9 +815,45 @@
       <a href="https://spring.io/" target="_blank">
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
       </a>
+      <!-- Go -->
+      <a href="https://golang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+      </a>
       <!-- AWS -->
       <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS"/>
+      </a>
+      <!-- Flutter -->
+      <a href="https://flutter.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+      </a>
+      <!-- Dart -->
+      <a href="https://dart.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+      </a>
+      <!-- Assembly -->
+      <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+        <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+      </a>
+      <!-- Vue.js -->
+      <a href="https://vuejs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+      </a>
+      <!-- Pug -->
+      <a href="https://pugjs.org/api/getting-started.html" target="_blank">
+        <img src="https://img.shields.io/badge/Pug-%23A86454.svg?style=for-the-badge&logo=pug&logoColor=white" alt="Pug"/>
+      </a>
+      <!-- MariaDB -->
+      <a href="https://mariadb.org/" target="_blank">
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+      </a>
+      <!-- Redis -->
+      <a href="https://redis.io/" target="_blank">
+        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+      </a>
+      <!-- Azure -->
+      <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
       </a>
       <!-- Grafana -->
       <a href="https://grafana.com/" target="_blank">
