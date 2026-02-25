@@ -25,7 +25,7 @@
   <!------------------------------------------------------------------ Long Description ------------------------------------------------------------------>
 
   <p align="center">
-    Je suis un développeur Full-stack, Logiciel et DevOps avec une forte appétence pour la création de solutions performantes et robustes. Actuellement en 3ème année du cycle d'Expert en Technologies de l'Information , je suis constamment en train d'apprendre et d'explorer de nouvelles technologies .
+    Je suis un développeur Full-stack, Logiciel et DevOps avec une forte appétence pour la création de solutions performantes et robustes. Actuellement en 3ème année du cycle d'Expert en Technologies de l'Information, je suis constamment en train d'apprendre et d'explorer de nouvelles technologies.
   </p>
 
   <!------------------------------------------------------------------ Internship Seeking ------------------------------------------------------------------>
