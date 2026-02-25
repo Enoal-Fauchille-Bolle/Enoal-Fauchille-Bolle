@@ -32,9 +32,6 @@
 
   <p align="center">
     <br />
-    🔭 Je suis à la recherche d'un <b>stage de 4 mois d'Avril à Juillet 2026</b> pour mettre mes compétences en pratique et contribuer à des projets innovants.
-    <br />
-    <br />
     📫 N'hésitez pas à me contacter : <b>
     <a href="mailto:enoal.fauchille@gmail.com">
       enoal.fauchille@gmail.com
