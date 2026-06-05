@@ -462,8 +462,6 @@
     <br/>
     <!-- Top Languages -->
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enoal-Fauchille-Bolle&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages"/>
-    <!-- WakaTime Stats -->
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=EnoalFauchilleBolle&theme=radical&hide_border=false&layout=compact&langs_count=10&hide=other" alt="WakaTime Stats"/>
     <br>
   </p>
 
@@ -956,8 +954,6 @@
   <br/>
   <!-- Top Languages -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enoal-Fauchille-Bolle&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages"/>
-  <!-- WakaTime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EnoalFauchilleBolle&theme=radical&hide_border=false&layout=compact&langs_count=10&hide=other" alt="WakaTime Stats"/>
   <br>
 </p>
 
