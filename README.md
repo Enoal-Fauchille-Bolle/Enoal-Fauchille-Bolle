@@ -33,8 +33,8 @@
   <p align="center">
     <br />
     📫 N'hésitez pas à me contacter : <b>
-    <a href="mailto:enoal.fauchille@gmail.com">
-      enoal.fauchille@gmail.com
+    <a href="mailto:contact@enoal.fr">
+      contact@enoal.fr
     </a>
   </b>
   </p>
@@ -51,7 +51,7 @@
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <!-- Email -->
-    <a href="mailto:enoal.fauchille@gmail.com" target="_blank">
+    <a href="mailto:contact@enoal.fr" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
@@ -527,8 +527,8 @@
 
 <p align="center">
   📫 Feel free to contact me: <b>
-    <a href="mailto:enoal.fauchille@gmail.com">
-      enoal.fauchille@gmail.com
+    <a href="mailto:contact@enoal.fr">
+      contact@enoal.fr
     </a>
   </b>
 </p>
@@ -545,7 +545,7 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <!-- Email -->
-  <a href="mailto:enoal.fauchille@gmail.com" target="_blank">
+  <a href="mailto:contact@enoal.fr" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
