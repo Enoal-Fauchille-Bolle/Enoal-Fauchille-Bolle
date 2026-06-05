@@ -456,14 +456,14 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enoal-Fauchille-Bolle&theme=radical" alt="GitHub Profile Details"/>
     <br>
     <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Enoal-Fauchille-Bolle&theme=radical&hide_border=false&count_private=true&show_icons=true&hide=contribs&show=prs_merged_percentage" alt="GitHub Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=Enoal-Fauchille-Bolle&theme=radical&hide_border=false&count_private=true&show_icons=true&hide=contribs&show=prs_merged_percentage" alt="GitHub Stats"/>
     <!-- GitHub Streak -->
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Enoal-Fauchille-Bolle&theme=radical&hide_border=false" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=Enoal-Fauchille-Bolle&theme=radical&hide_border=false" alt="GitHub Streak"/>
     <br/>
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoal-Fauchille-Bolle&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enoal-Fauchille-Bolle&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages"/>
     <!-- WakaTime Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EnoalFauchilleBolle&theme=radical&hide_border=false&layout=compact&langs_count=10&hide=other" alt="WakaTime Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=EnoalFauchilleBolle&theme=radical&hide_border=false&layout=compact&langs_count=10&hide=other" alt="WakaTime Stats"/>
     <br>
   </p>
 
@@ -950,12 +950,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enoal-Fauchille-Bolle&theme=radical" alt="GitHub Profile Details"/>
   <br>
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Enoal-Fauchille-Bolle&theme=radical&hide_border=false&count_private=true&show_icons=true&hide=contribs&show=prs_merged_percentage" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Enoal-Fauchille-Bolle&theme=radical&hide_border=false&count_private=true&show_icons=true&hide=contribs&show=prs_merged_percentage" alt="GitHub Stats"/>
   <!-- GitHub Streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Enoal-Fauchille-Bolle&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Enoal-Fauchille-Bolle&theme=radical&hide_border=false" alt="GitHub Streak"/>
   <br/>
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoal-Fauchille-Bolle&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enoal-Fauchille-Bolle&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages"/>
   <!-- WakaTime Stats -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EnoalFauchilleBolle&theme=radical&hide_border=false&layout=compact&langs_count=10&hide=other" alt="WakaTime Stats"/>
   <br>
