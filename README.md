@@ -16,7 +16,7 @@
 
   <h1 align="center">Salut, moi c'est Enoal Fauchille--Bolle 👋</h1>
 
-  <h3 align="center">[TAGLINE_FR]</h3>
+  <h3 align="center">J'aime faire dialoguer des programmes et tenir un produit de bout en bout.</h3>
 
   <!--------------------------------------------------------------------- Introduction --------------------------------------------------------------------->
 
@@ -100,7 +100,7 @@
 
 <h1 align="center">Hi, I'm Enoal Fauchille--Bolle 👋</h1>
 
-<h3 align="center">[TAGLINE_EN]</h3>
+<h3 align="center">I like making programs talk to each other, and owning a product end to end.</h3>
 
 <!--------------------------------------------------------------------- Introduction --------------------------------------------------------------------->
 
