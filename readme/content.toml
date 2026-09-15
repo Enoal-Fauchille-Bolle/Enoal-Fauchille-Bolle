@@ -1,0 +1,139 @@
+# Content of the profile README, rendered into ../README.md by build.py.
+#
+# A translated text is a table with one key per language (en, fr);
+# a text without translation is a plain string.
+# Single-quoted strings are literal: HTML and Markdown go in as is, no escaping.
+
+[punctuation]
+colon.en = ": "
+colon.fr = " : "
+and.en = " and "
+and.fr = " et "
+
+[banner]
+src.en = "./assets/banner_en.png"
+src.fr = "./assets/banner_fr.png"
+alt.en = "Enoal Fauchille--Bolle's banner"
+alt.fr = "Bannière d'Enoal Fauchille--Bolle"
+
+[heading]
+en = "Hi, I'm Enoal Fauchille--Bolle 👋"
+fr = "Salut, moi c'est Enoal Fauchille--Bolle 👋"
+
+[tagline]
+en = "I like making programs talk to each other, and owning a product end to end."
+fr = "J'aime faire dialoguer des programmes et tenir un produit de bout en bout."
+
+[intro]
+studies.en = '4th-year student at <a href="https://www.epitech.eu/">Epitech Nantes</a>, on exchange at <a href="https://ruc.dk/en">Roskilde University</a> (Denmark) for 2026-2027.'
+studies.fr = 'Étudiant en 4e année à <a href="https://www.epitech.eu/">Epitech Nantes</a>, en échange à <a href="https://ruc.dk/en">Roskilde University</a> (Danemark) pour 2026-2027.'
+internships.en = 'Previously a full-stack intern at <a href="https://www.revolte.club/">Revolte E-garages</a> (two internships, React and NestJS) and at <a href="https://askeal.com/">Askeal</a> (AI for cybersecurity: RAG, MCP servers).'
+internships.fr = 'Auparavant stagiaire full-stack chez <a href="https://www.revolte.club/">Revolte E-garages</a> (deux stages, React et NestJS) et chez <a href="https://askeal.com/">Askeal</a> (IA appliquée à la cybersécurité : RAG, serveurs MCP).'
+
+[availability]
+en = "🎯 Looking for a 5th-year internship starting September 2027."
+fr = "🎯 Je recherche un stage de 5e année à partir de septembre 2027."
+
+# Badges: the label is URL-encoded by build.py, so write it in clear ("C/C++").
+# alt defaults to the label.
+
+[[contact]]
+host = "custom-icon-badges.demolab.com"
+label = "enoal.fr"
+color = "2AA198"
+logo = "globe"
+logo_color = "white"
+url = "https://enoal.fr/"
+alt.en = "Website"
+alt.fr = "Site web"
+
+[[contact]]
+host = "custom-icon-badges.demolab.com"
+label = "LinkedIn"
+color = "0077B5"
+logo = "linkedin-icon"
+logo_color = "white"
+url = "https://www.linkedin.com/in/enoal-fauchille"
+
+[[contact]]
+host = "custom-icon-badges.demolab.com"
+label = "contact@enoal.fr"
+color = "D14836"
+logo = "mail"
+logo_color = "white"
+url = "mailto:contact@enoal.fr"
+alt = "Email"
+
+[skills]
+heading.en = "Tech I'm comfortable with"
+heading.fr = "Les technos que je maîtrise"
+also_label.en = "Also worked with:"
+also_label.fr = "J'ai aussi utilisé :"
+also = [
+  "HTML/CSS", "Angular", "Vite", "Prisma", "TypeORM", "Redis", "Ratatui", "Nginx", "Traefik",
+  "ArgoCD", "Helm", "Proxmox", "Jenkins", "GitHub Actions", "Bash",
+  { en = "x86-64 Assembly", fr = "assembleur x86-64" },
+]
+
+# Tier 1: used in a real context and can talk about it for 10 minutes in an interview.
+badges = [
+  { label = "TypeScript", color = "3178C6", logo = "typescript", logo_color = "white", url = "https://www.typescriptlang.org/" },
+  { label = "JavaScript", color = "323330", logo = "javascript", logo_color = "F7DF1E", url = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
+  { label = "React", color = "20232A", logo = "react", logo_color = "61DAFB", url = "https://react.dev/" },
+  { label = "Node.js", color = "5FA04E", logo = "nodedotjs", logo_color = "white", url = "https://nodejs.org/" },
+  { label = "NestJS", color = "E0234E", logo = "nestjs", logo_color = "white", url = "https://nestjs.com/" },
+  { label = "Express", color = "404D59", logo = "express", logo_color = "61DAFB", url = "https://expressjs.com/" },
+  { label = "Python", color = "3776AB", logo = "python", logo_color = "FFD43B", url = "https://www.python.org/" },
+  { label = "Rust", color = "000000", logo = "rust", logo_color = "white", url = "https://rust-lang.org/" },
+  { label = "C/C++", color = "00599C", logo = "cplusplus", logo_color = "white", url = "https://en.cppreference.com/" },
+  { label = "Git", color = "F05032", logo = "git", logo_color = "white", url = "https://git-scm.com/" },
+  { label = "Linux", color = "FCC624", logo = "linux", logo_color = "black", url = "https://www.kernel.org/" },
+  { label = "Docker", color = "2496ED", logo = "docker", logo_color = "white", url = "https://www.docker.com/" },
+  { label = "Kubernetes", color = "326CE5", logo = "kubernetes", logo_color = "white", url = "https://kubernetes.io/" },
+  { label = "Ansible", color = "EE0000", logo = "ansible", logo_color = "white", url = "https://docs.ansible.com/" },
+  { label = "PostgreSQL", color = "4169E1", logo = "postgresql", logo_color = "white", url = "https://www.postgresql.org/" },
+]
+
+[projects_section]
+heading.en = "Projects"
+heading.fr = "Projets"
+more.en = 'More projects on <a href="https://enoal.fr/">enoal.fr</a> and in my pinned repositories below.'
+more.fr = 'Plus de projets sur <a href="https://enoal.fr/">enoal.fr</a> et dans mes dépôts épinglés ci-dessous.'
+
+[[projects]]
+repos = [{ name = "Skylode", url = "https://github.com/Enoal-Fauchille-Bolle/Skylode" }]
+description.en = 'incremental mining game played in the terminal, written in Rust with Ratatui and published on [crates.io](https://crates.io/crates/skylode-tui).'
+description.fr = 'jeu incrémental de minage qui se joue dans le terminal, écrit en Rust avec Ratatui et publié sur [crates.io](https://crates.io/crates/skylode-tui).'
+context.en = "Personal project, solo."
+context.fr = "Projet perso, en solo."
+
+[[projects]]
+repos = [{ name = "TermOxide", url = "https://github.com/TermOxide/TermOxide" }]
+description.en = 'reactive TUI framework for Rust (Flexbox layout, `rsx!` components, signals). I contribute to its event-handling crate.'
+description.fr = 'framework TUI réactif pour Rust (layout Flexbox, composants `rsx!`, signaux). Je contribue à la crate de gestion des événements.'
+context.en = "Epitech Innovative Project (EIP), team."
+context.fr = "Projet d'innovation Epitech (EIP), en équipe."
+
+[[projects]]
+repos = [
+  { name = "Astra-ops", url = "https://github.com/Enoal-Fauchille-Bolle/Astra-ops" },
+  { name = "Astra-Setup", url = "https://github.com/Enoal-Fauchille-Bolle/Astra-Setup" },
+]
+description.en = 'my GitOps homelab, 30+ self-hosted services on Proxmox and K3s, deployed with ArgoCD, servers provisioned with Ansible.'
+description.fr = 'mon homelab en GitOps, plus de 30 services auto-hébergés sur Proxmox et K3s, déployés avec ArgoCD, serveurs provisionnés avec Ansible.'
+context.en = "Personal project, solo."
+context.fr = "Projet perso, en solo."
+
+[[projects]]
+repos = [{ name = "AREA", url = "https://github.com/Enoal-Fauchille-Bolle/AREA" }]
+description.en = 'IFTTT/Zapier-style automation platform with web and mobile clients. I worked on the NestJS back-end and the CI.'
+description.fr = "plateforme d'automatisation façon IFTTT/Zapier, avec clients web et mobile. J'ai travaillé sur le back-end NestJS et la CI."
+context.en = "Epitech, team of 5."
+context.fr = "Epitech, équipe de 5."
+
+[[projects]]
+repos = [{ name = "Zappy", url = "https://github.com/Enoal-Fauchille-Bolle/Zappy" }]
+description.en = 'networked multiplayer strategy game, with a C server, a C++ GUI and Python AI clients.'
+description.fr = 'jeu de stratégie multijoueur en réseau, avec un serveur en C, une interface en C++ et des clients IA en Python.'
+context.en = "Epitech, team of 6, about half of the commits."
+context.fr = "Epitech, équipe de 6, environ la moitié des commits."

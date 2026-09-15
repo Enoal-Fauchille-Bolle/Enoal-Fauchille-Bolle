@@ -1,0 +1,71 @@
+{#- One full profile in one language. readme.md.j2 renders it once per language. -#}
+
+{% macro badge(b, lang) %}
+<a href="{{ b.url }}"><img src="https://{{ b.host | default("img.shields.io") }}/badge/{{ b.label | urlquote }}-{{ b.color }}?style=for-the-badge&logo={{ b.logo }}&logoColor={{ b.logo_color }}" alt="{{ b.alt | default(b.label) | tr(lang) }}"/></a>
+{%- endmacro %}
+
+{% macro profile(lang) %}
+<!----------------------------------------------------------------------- Banner ----------------------------------------------------------------------->
+
+<p align="center">
+  <img src="{{ banner.src | tr(lang) }}" alt="{{ banner.alt | tr(lang) }}"/>
+</p>
+
+<!------------------------------------------------------------------------ Title ------------------------------------------------------------------------>
+
+<h1 align="center">{{ heading | tr(lang) }}</h1>
+
+<h3 align="center">{{ tagline | tr(lang) }}</h3>
+
+<!--------------------------------------------------------------------- Introduction --------------------------------------------------------------------->
+
+<p align="center">
+  {{ intro.studies | tr(lang) }}
+  <br>
+  {{ intro.internships | tr(lang) }}
+</p>
+
+<!--------------------------------------------------------------------- Availability --------------------------------------------------------------------->
+
+<p align="center">
+  <b>{{ availability | tr(lang) }}</b>
+</p>
+
+<!------------------------------------------------------------------------ Contact ------------------------------------------------------------------------>
+
+<p align="center">
+{% for b in contact %}
+  {{ badge(b, lang) }}
+{% endfor %}
+</p>
+
+<br>
+
+<!-------------------------------------------------------------------- Tech Stack -------------------------------------------------------------------->
+
+<h2 align="center">{{ skills.heading | tr(lang) }}</h2>
+
+<p align="center">
+{% for b in skills.badges %}
+  {{ badge(b, lang) }}
+{% endfor %}
+</p>
+
+<p align="center">
+  <b>{{ skills.also_label | tr(lang) }}</b> {{ skills.also | map("tr", lang) | join(", ") }}
+</p>
+
+<br>
+
+<!--------------------------------------------------------------------- Projects --------------------------------------------------------------------->
+
+<h2 align="center">{{ projects_section.heading | tr(lang) }}</h2>
+
+{% for p in projects %}
+- {% for r in p.repos %}{{ "" if loop.first else punctuation.and | tr(lang) }}**[{{ r.name }}]({{ r.url }})**{% endfor %}{{ punctuation.colon | tr(lang) }}{{ p.description | tr(lang) }} *{{ p.context | tr(lang) }}*
+{% endfor %}
+
+<p align="center">
+  {{ projects_section.more | tr(lang) }}
+</p>
+{%- endmacro %}
