@@ -136,5 +136,5 @@ context.fr = "Epitech, équipe de 5."
 repos = [{ name = "Zappy", url = "https://github.com/Enoal-Fauchille-Bolle/Zappy" }]
 description.en = 'networked multiplayer strategy game, with a C server, a C++ GUI and Python AI clients.'
 description.fr = 'jeu de stratégie multijoueur en réseau, avec un serveur en C, une interface en C++ et des clients IA en Python.'
-context.en = "Epitech, team of 6, about half of the commits."
-context.fr = "Epitech, équipe de 6, environ la moitié des commits."
+context.en = "Epitech, team of 6."
+context.fr = "Epitech, équipe de 6."
