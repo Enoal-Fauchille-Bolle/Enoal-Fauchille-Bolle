@@ -43,7 +43,8 @@ label = "enoal.fr"
 color = "2AA198"
 logo = "globe"
 logo_color = "white"
-url = "https://enoal.fr/"
+url.en = "https://enoal.fr/en"
+url.fr = "https://enoal.fr/"
 alt.en = "Website"
 alt.fr = "Site web"
 
@@ -97,7 +98,7 @@ badges = [
 [projects_section]
 heading.en = "Projects"
 heading.fr = "Projets"
-more.en = 'More projects on <a href="https://enoal.fr/">enoal.fr</a> and in my pinned repositories below.'
+more.en = 'More projects on <a href="https://enoal.fr/en">enoal.fr</a> and in my pinned repositories below.'
 more.fr = 'Plus de projets sur <a href="https://enoal.fr/">enoal.fr</a> et dans mes dépôts épinglés ci-dessous.'
 
 [[projects]]

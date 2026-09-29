@@ -120,7 +120,7 @@
 <!------------------------------------------------------------------------ Contact ------------------------------------------------------------------------>
 
 <p align="center">
-  <a href="https://enoal.fr/"><img src="https://custom-icon-badges.demolab.com/badge/enoal.fr-2AA198?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>
+  <a href="https://enoal.fr/en"><img src="https://custom-icon-badges.demolab.com/badge/enoal.fr-2AA198?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/enoal-fauchille"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-icon&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:contact@enoal.fr"><img src="https://custom-icon-badges.demolab.com/badge/contact%40enoal.fr-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/></a>
 </p>
@@ -166,5 +166,5 @@
 - **[Zappy](https://github.com/Enoal-Fauchille-Bolle/Zappy)**: networked multiplayer strategy game, with a C server, a C++ GUI and Python AI clients. *Epitech, team of 6, about half of the commits.*
 
 <p align="center">
-  More projects on <a href="https://enoal.fr/">enoal.fr</a> and in my pinned repositories below.
+  More projects on <a href="https://enoal.fr/en">enoal.fr</a> and in my pinned repositories below.
 </p>
