@@ -26,8 +26,8 @@ CONTENT = ROOT / "readme" / "content.toml"
 # LinkedIn answers bots with 999/405 whatever the URL: checking it only produces false alarms.
 SKIPPED_HOSTS = ("www.linkedin.com",)
 
-# "Not for bots" rather than "gone": Cloudflare sends these to GitHub's datacenter IPs
-# (en.cppreference.com 403, docs.ansible.com 429) while the pages load fine in a browser.
+# "Not for bots" rather than "gone": Cloudflare-protected sites send these to GitHub's
+# datacenter IPs while the pages load fine in a browser.
 BOT_REFUSALS = (403, 429)
 
 HEADERS = {
