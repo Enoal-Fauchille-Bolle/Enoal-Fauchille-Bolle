@@ -1,7 +1,8 @@
 {#- One full profile in one language. readme.md.j2 renders it once per language. -#}
 
-{% macro badge(b, lang) %}
-<a href="{{ b.url | tr(lang) }}"><img src="https://{{ b.host | default("img.shields.io") }}/badge/{{ b.label | urlquote }}-{{ b.color }}?style=for-the-badge&logo={{ b.logo }}&logoColor={{ b.logo_color }}" alt="{{ b.alt | default(b.label) | tr(lang) }}"/></a>
+{#- href defaults to the badge's own url; skill badges pass their enoal.fr anchor instead. -#}
+{% macro badge(b, lang, href=none) %}
+<a href="{{ href or b.url | tr(lang) }}"><img src="https://{{ b.host | default("img.shields.io") }}/badge/{{ b.label | urlquote }}-{{ b.color }}?style=for-the-badge&logo={{ b.logo }}&logoColor={{ b.logo_color }}" alt="{{ b.alt | default(b.label) | tr(lang) }}"/></a>
 {%- endmacro %}
 
 {% macro profile(lang) %}
@@ -47,7 +48,7 @@
 
 <p align="center">
 {% for b in skills.badges %}
-  {{ badge(b, lang) }}
+  {{ badge(b, lang, skills.link | tr(lang) ~ b.id) }}
 {% endfor %}
 </p>
 

@@ -71,28 +71,30 @@ heading.fr = "Les technos que je maîtrise"
 also_label.en = "Also worked with:"
 also_label.fr = "J'ai aussi utilisé :"
 also = [
-  "HTML/CSS", "Angular", "Vite", "Prisma", "TypeORM", "Redis", "Ratatui", "Nginx", "Traefik",
+  "HTML/CSS", "Angular", "Vite", "Express", "Prisma", "TypeORM", "Redis", "Ratatui", "Nginx", "Traefik",
   "ArgoCD", "Helm", "Proxmox", "Jenkins", "GitHub Actions", "Bash",
   { en = "x86-64 Assembly", fr = "assembleur x86-64" },
 ]
 
 # Tier 1: used in a real context and can talk about it for 10 minutes in an interview.
+# Each badge opens its panel in the About section of enoal.fr: link + id.
+link.en = "https://enoal.fr/en/#tech-"
+link.fr = "https://enoal.fr/#tech-"
 badges = [
-  { label = "TypeScript", color = "3178C6", logo = "typescript", logo_color = "white", url = "https://www.typescriptlang.org/" },
-  { label = "JavaScript", color = "323330", logo = "javascript", logo_color = "F7DF1E", url = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
-  { label = "React", color = "20232A", logo = "react", logo_color = "61DAFB", url = "https://react.dev/" },
-  { label = "Node.js", color = "5FA04E", logo = "nodedotjs", logo_color = "white", url = "https://nodejs.org/" },
-  { label = "NestJS", color = "E0234E", logo = "nestjs", logo_color = "white", url = "https://nestjs.com/" },
-  { label = "Express", color = "404D59", logo = "express", logo_color = "61DAFB", url = "https://expressjs.com/" },
-  { label = "Python", color = "3776AB", logo = "python", logo_color = "FFD43B", url = "https://www.python.org/" },
-  { label = "Rust", color = "000000", logo = "rust", logo_color = "white", url = "https://rust-lang.org/" },
-  { label = "C/C++", color = "00599C", logo = "cplusplus", logo_color = "white", url = "https://en.cppreference.com/" },
-  { label = "Git", color = "F05032", logo = "git", logo_color = "white", url = "https://git-scm.com/" },
-  { label = "Linux", color = "FCC624", logo = "linux", logo_color = "black", url = "https://www.kernel.org/" },
-  { label = "Docker", color = "2496ED", logo = "docker", logo_color = "white", url = "https://www.docker.com/" },
-  { label = "Kubernetes", color = "326CE5", logo = "kubernetes", logo_color = "white", url = "https://kubernetes.io/" },
-  { label = "Ansible", color = "EE0000", logo = "ansible", logo_color = "white", url = "https://docs.ansible.com/" },
-  { label = "PostgreSQL", color = "4169E1", logo = "postgresql", logo_color = "white", url = "https://www.postgresql.org/" },
+  { label = "TypeScript", color = "3178C6", logo = "typescript", logo_color = "white", id = "typescript" },
+  { label = "JavaScript", color = "323330", logo = "javascript", logo_color = "F7DF1E", id = "javascript" },
+  { label = "React", color = "20232A", logo = "react", logo_color = "61DAFB", id = "react" },
+  { label = "Node.js", color = "5FA04E", logo = "nodedotjs", logo_color = "white", id = "nodejs" },
+  { label = "NestJS", color = "E0234E", logo = "nestjs", logo_color = "white", id = "nestjs" },
+  { label = "Python", color = "3776AB", logo = "python", logo_color = "FFD43B", id = "python" },
+  { label = "Rust", color = "000000", logo = "rust", logo_color = "white", id = "rust" },
+  { label = "C/C++", color = "00599C", logo = "cplusplus", logo_color = "white", id = "c-cpp" },
+  { label = "Git", color = "F05032", logo = "git", logo_color = "white", id = "git" },
+  { label = "Linux", color = "FCC624", logo = "linux", logo_color = "black", id = "linux" },
+  { label = "Docker", color = "2496ED", logo = "docker", logo_color = "white", id = "docker" },
+  { label = "Kubernetes", color = "326CE5", logo = "kubernetes", logo_color = "white", id = "kubernetes" },
+  { label = "Ansible", color = "EE0000", logo = "ansible", logo_color = "white", id = "ansible" },
+  { label = "PostgreSQL", color = "4169E1", logo = "postgresql", logo_color = "white", id = "postgresql" },
 ]
 
 [projects_section]
