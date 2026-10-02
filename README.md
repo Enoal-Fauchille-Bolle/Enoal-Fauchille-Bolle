@@ -38,6 +38,7 @@
   <p align="center">
     <a href="https://enoal.fr/"><img src="https://custom-icon-badges.demolab.com/badge/enoal.fr-2AA198?style=for-the-badge&logo=globe&logoColor=white" alt="Site web"/></a>
     <a href="https://www.linkedin.com/in/enoal-fauchille"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-icon&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://cv.enoal.fr/"><img src="https://custom-icon-badges.demolab.com/badge/CV-586E75?style=for-the-badge&logo=file-text&logoColor=white" alt="CV"/></a>
     <a href="mailto:contact@enoal.fr"><img src="https://custom-icon-badges.demolab.com/badge/contact%40enoal.fr-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/></a>
   </p>
 
@@ -121,6 +122,7 @@
 <p align="center">
   <a href="https://enoal.fr/en"><img src="https://custom-icon-badges.demolab.com/badge/enoal.fr-2AA198?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/enoal-fauchille"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-icon&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://cv.enoal.fr/en"><img src="https://custom-icon-badges.demolab.com/badge/CV-586E75?style=for-the-badge&logo=file-text&logoColor=white" alt="Resume"/></a>
   <a href="mailto:contact@enoal.fr"><img src="https://custom-icon-badges.demolab.com/badge/contact%40enoal.fr-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/></a>
 </p>
 

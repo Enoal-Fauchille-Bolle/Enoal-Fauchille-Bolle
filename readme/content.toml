@@ -58,6 +58,17 @@ url = "https://www.linkedin.com/in/enoal-fauchille"
 
 [[contact]]
 host = "custom-icon-badges.demolab.com"
+label = "CV"
+color = "586E75"
+logo = "file-text"
+logo_color = "white"
+url.en = "https://cv.enoal.fr/en"
+url.fr = "https://cv.enoal.fr/"
+alt.en = "Resume"
+alt.fr = "CV"
+
+[[contact]]
+host = "custom-icon-badges.demolab.com"
 label = "contact@enoal.fr"
 color = "D14836"
 logo = "mail"
