@@ -79,7 +79,7 @@
   - **[TermOxide](https://github.com/TermOxide/TermOxide)** : framework TUI réactif pour Rust (layout Flexbox, composants `rsx!`, signaux). Je contribue à la crate de gestion des événements. *Projet d'innovation Epitech (EIP), en équipe.*
   - **[Astra-ops](https://github.com/Enoal-Fauchille-Bolle/Astra-ops)** et **[Astra-Setup](https://github.com/Enoal-Fauchille-Bolle/Astra-Setup)** : mon homelab en GitOps, plus de 30 services auto-hébergés sur Proxmox et K3s, déployés avec ArgoCD, serveurs provisionnés avec Ansible. *Projet perso, en solo.*
   - **[AREA](https://github.com/Enoal-Fauchille-Bolle/AREA)** : plateforme d'automatisation façon IFTTT/Zapier, avec clients web et mobile. J'ai travaillé sur le back-end NestJS et la CI. *Epitech, équipe de 5.*
-  - **[Zappy](https://github.com/Enoal-Fauchille-Bolle/Zappy)** : jeu de stratégie multijoueur en réseau, avec un serveur en C, une interface en C++ et des clients IA en Python. *Epitech, équipe de 6, environ la moitié des commits.*
+  - **[Zappy](https://github.com/Enoal-Fauchille-Bolle/Zappy)** : jeu de stratégie multijoueur en réseau, avec un serveur en C, une interface en C++ et des clients IA en Python. *Epitech, équipe de 6.*
 
   <p align="center">
     Plus de projets sur <a href="https://enoal.fr/">enoal.fr</a> et dans mes dépôts épinglés ci-dessous.
@@ -163,7 +163,7 @@
 - **[TermOxide](https://github.com/TermOxide/TermOxide)**: reactive TUI framework for Rust (Flexbox layout, `rsx!` components, signals). I contribute to its event-handling crate. *Epitech Innovative Project (EIP), team.*
 - **[Astra-ops](https://github.com/Enoal-Fauchille-Bolle/Astra-ops)** and **[Astra-Setup](https://github.com/Enoal-Fauchille-Bolle/Astra-Setup)**: my GitOps homelab, 30+ self-hosted services on Proxmox and K3s, deployed with ArgoCD, servers provisioned with Ansible. *Personal project, solo.*
 - **[AREA](https://github.com/Enoal-Fauchille-Bolle/AREA)**: IFTTT/Zapier-style automation platform with web and mobile clients. I worked on the NestJS back-end and the CI. *Epitech, team of 5.*
-- **[Zappy](https://github.com/Enoal-Fauchille-Bolle/Zappy)**: networked multiplayer strategy game, with a C server, a C++ GUI and Python AI clients. *Epitech, team of 6, about half of the commits.*
+- **[Zappy](https://github.com/Enoal-Fauchille-Bolle/Zappy)**: networked multiplayer strategy game, with a C server, a C++ GUI and Python AI clients. *Epitech, team of 6.*
 
 <p align="center">
   More projects on <a href="https://enoal.fr/en">enoal.fr</a> and in my pinned repositories below.
